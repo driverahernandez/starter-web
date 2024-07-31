@@ -3,3 +3,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Nam nisi hendrerit rhoncus 
 Penatibus venenatis dui nibh libero luctus, cras quisque a. Rhoncus lobortis porta amet penatibus dapibus integer litora. Feugiat libero neque donec; luctus proin venenatis donec elit. Morbi tempor cras ultricies rutrum, porttitor ad risus. Cras tempor vestibulum sit tristique sollicitudin fames. Libero proin turpis sit sem conubia. Condimentum ac nec vestibulum parturient pellentesque.
 
 This is new text. 
+
+Adding more text for the second text 
+
+Edit made while in staging area. 
